@@ -1,5 +1,6 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 .jumbotron {
-  padding-top: 10px;
-  padding-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
 }
